@@ -32,9 +32,9 @@
     <td>Debit Screen</td>
   </tr>
   <tr>
-    <td valign="top"><img src="screenshot/Phone Screenshot 1.jpg" width=270 height=480></td>
-    <td valing="top"><img src="screenshots/Phone Screenshot 2.jpg" width=270 height=480></td>
-    <td valing="top"><img src="screenshot/Phone Screenshot 3.jpg" width=270 height=480></td>
+    <td valign="top"><img src="screenshot/Phone Screenshot 1.jpg" width=270 height=460></td>
+    <td valing="top"><img src="screenshot/Phone Screenshot 2.jpg" width=270 height=460></td>
+    <td valing="top"><img src="screenshot/Phone Screenshot 3.jpg" width=270 height=460></td>
   </tr>
   <tr>
     <td>Settings Screen</td>
@@ -42,17 +42,17 @@
     <td>Credit Screen (Dark)</td>
   </tr>
   <tr>
-    <td valign="top"><img src="screenshot/Phone Screenshot 4.jpg" width=270 height=480></td>
-    <td valign="top"><img src="screenshot/Phone Screenshot 5.jpg" width=270 height=480></td>
-    <td valign="top"><img src="screenshot/Phone Screenshot 6.jpg" width=270 height=480></td>
+    <td valign="top"><img src="screenshot/Phone Screenshot 4.jpg" width=270 height=460></td>
+    <td valign="top"><img src="screenshot/Phone Screenshot 5.jpg" width=270 height=460></td>
+    <td valign="top"><img src="screenshot/Phone Screenshot 6.jpg" width=270 height=460></td>
   </tr>
   <tr>
     <td>Debit Screen (Dark)</td>
     <td>Settings Screen (Dark)</td>
   </tr>
   <tr>
-    <td valign="top"><img src="screenshot/Phone Screenshot 7.jpg" width=270 height=480></td>
-    <td valign="top"><img src="screenshot/Phone Screenshot 8.jpg" width=270 height=480></td>
+    <td valign="top"><img src="screenshot/Phone Screenshot 7.jpg" width=270 height=460></td>
+    <td valign="top"><img src="screenshot/Phone Screenshot 8.jpg" width=270 height=460></td>
   </tr>
  </table>
 
