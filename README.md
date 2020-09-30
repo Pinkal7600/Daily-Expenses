@@ -58,6 +58,10 @@
 
  <br>
 <br>
+
+## App Design & reference
+- [Thiago Dantas - Finance_App_Flutter](https://github.com/td-santos/Finance_App_Flutter)
+
 <hr>
 Copyright [2020] [Pinkal Patel]
 
