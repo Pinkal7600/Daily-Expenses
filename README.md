@@ -44,7 +44,7 @@
   <tr>
     <td valign="top"><img src="screenshot/Phone Screenshot 4.jpg" width=270 height=460></td>
     <td valign="top"><img src="screenshot/Phone Screenshot 5.jpg" width=270 height=460></td>
-    <td valign="top"><img src="screenshot/Phone Screenshot 6.jpg" width=270 height=460></td>
+    <td valign="top"><img src="screenshot/Phone Screenshot 8.jpg" width=270 height=460></td>
   </tr>
   <tr>
     <td>Debit Screen (Dark)</td>
@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td valign="top"><img src="screenshot/Phone Screenshot 7.jpg" width=270 height=460></td>
-    <td valign="top"><img src="screenshot/Phone Screenshot 8.jpg" width=270 height=460></td>
+    <td valign="top"><img src="screenshot/Phone Screenshot 6.jpg" width=270 height=460></td>
   </tr>
  </table>
 
